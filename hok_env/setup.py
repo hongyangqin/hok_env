@@ -11,7 +11,6 @@ setup(
     name="hok",
     version=__version__,
     description="Honor of Kings: A MOBA game environment for multi-agent reinforcement learning.",
-    long_description="Honor of Kings: A MOBA game environment for multi-agent reinforcement learning.",
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,

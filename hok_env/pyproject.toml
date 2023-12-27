@@ -10,6 +10,7 @@ name = "hok"
 version = "2.0.2"
 description = "Honor of Kings: A MOBA game environment for multi-agent reinforcement learning."
 requires-python = ">=3.6, <=3.9"
+readme = "README.md"
 
 classifiers = [
     "Programming Language :: Python :: 3",
